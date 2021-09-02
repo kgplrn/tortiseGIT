@@ -1,4 +1,4 @@
 there are are 3 types of merging:
 1. fast forward merge
-2.
+2. 3 way merge:here both develop and master branch will have changes and then merged to master branch
 3.
